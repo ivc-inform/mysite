@@ -9,3 +9,5 @@ python3 manage.py sqlmigrate polls 0001
 python3 manage.py shell
 
 python3 manage.py createsuperuser
+
+python3 manage.py test
